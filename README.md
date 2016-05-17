@@ -19,6 +19,6 @@ Introduction : This game is simple shooting game.
                if you want to go right, press right keyboard.
                if you want to fire bullets, press z keyboard.
                
-How to run : click to the right mouse button to go to enter a core.ShootingGameMain.
-
+How to run :     
+             click to the right mouse button to go to enter a core.ShootingGameMain.
              click to the "Run As" -> "Java Application" with left mouse button and  
