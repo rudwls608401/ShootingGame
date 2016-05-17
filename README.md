@@ -1,6 +1,6 @@
 # ShootingGame
 
-Author : annkyeongjin
+Author : annkyeongjin \n
 E-mail : rudwls608401@naver.com
 Descriptor : This repository contains shooting game. Developed by JAVA and Eclipse.
 Introduction : This game is simple shooting game. 
